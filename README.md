@@ -39,7 +39,7 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 <br/>
 
-### 📈 Contribution Graph
+###  
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameersinha1&theme=react-dark&hide_border=true" />
@@ -60,7 +60,7 @@
 
 <br/>
 
-### 🐍 Snake Eating My Contributions
+### 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sameersinha1/sameersinha1/output/github-contribution-grid-snake.svg" />
@@ -68,26 +68,6 @@
 
 <br/>
 
-### 🔥 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/sameersinha1/DEEPFAKEDETECTION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameersinha1&repo=DEEPFAKEDETECTION&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/sameersinha1/Intelligent-Smile-Recognition-and-Reward-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameersinha1&repo=Intelligent-Smile-Recognition-and-Reward-System&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/sameersinha1/Voice-contolled-car-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameersinha1&repo=Voice-contolled-car-&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/sameersinha1/Website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sameersinha1&repo=Website&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br/>
 
 ### 🤝 Connect With Me
 
