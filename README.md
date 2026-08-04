@@ -39,7 +39,7 @@
 
 <br/>
 
-### 
+
 
 <div align="center">
 
@@ -52,15 +52,14 @@
 
 <br/>
 
-###  
+
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameersinha1&theme=react-dark&hide_border=true" />
 </div>
 
 <br/>
-
-### 
+ 
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sameersinha1/sameersinha1/output/github-contribution-grid-snake.svg" />
