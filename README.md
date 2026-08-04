@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi%20There,%20I'm%20Sameer%20Sinha%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20ML%20Engineer%20%7C%20Building%20with%20Java,%20Python%20%26%20AI&descAlignY=55&descSize=18" />
+
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
