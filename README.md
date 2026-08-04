@@ -39,27 +39,28 @@
 
 <br/>
 
-
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sameersinha1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameersinha1&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sameersinha1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sameersinha1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sameersinha1&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=sameersinha1&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <br/>
 
-
+### 📈 Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameersinha1&theme=react-dark&hide_border=true" />
 </div>
 
 <br/>
- 
+
+### 🐍 Snake Eating My Contributions
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sameersinha1/sameersinha1/output/github-contribution-grid-snake.svg" />
@@ -67,6 +68,26 @@
 
 <br/>
 
+### 🔥 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/sameersinha1/DEEPFAKEDETECTION">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sameersinha1&repo=DEEPFAKEDETECTION&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/sameersinha1/Intelligent-Smile-Recognition-and-Reward-System">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sameersinha1&repo=Intelligent-Smile-Recognition-and-Reward-System&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/sameersinha1/Voice-contolled-car-">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sameersinha1&repo=Voice-contolled-car-&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/sameersinha1/Website">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sameersinha1&repo=Website&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</a>
+
+</div>
+
+<br/>
 
 ### 🤝 Connect With Me
 
