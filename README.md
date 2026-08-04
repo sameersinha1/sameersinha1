@@ -18,8 +18,6 @@
 - 💻 Comfortable with **Java, Python, C++**
 - 🧠 Currently exploring **Deepfake Detection**, **Computer Vision**, , **Digital Twin Model** and **Voice-Controlled Robotics**
 - 🌱 Always learning something new and shipping side projects
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sameer-sinha-39b8771ba)
-
 <br/>
 
 ###  Tech Stack
