@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi%20There,%20I'm%20Sameer%20Sinha%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20ML%20Engineer%20%7C%20Building%20with%20Java,%20Python%20%26%20AI&descAlignY=55&descSize=18" />
+type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi%20There,%20I'm%20Sameer%20Sinha%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20ML%20Engineer%20%7C%20Building%20with%20Java,%20Python%20%26%20AI&descAlignY=55&descSize=18" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -12,17 +12,17 @@
 
 <br/>
 
-### 🚀 About Me
+###  About Me
 
 - 🎓 Aspiring **ML Engineer**, passionate about AI, Machine Learning & Data Analysis
 - 💻 Comfortable with **Java, Python, C++**
-- 🧠 Currently exploring **Deepfake Detection**, **Computer Vision**, and **Voice-Controlled Robotics**
+- 🧠 Currently exploring **Deepfake Detection**, **Computer Vision**, , **Digital Twin Model** and **Voice-Controlled Robotics**
 - 🌱 Always learning something new and shipping side projects
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sameer-sinha-39b8771ba)
 
 <br/>
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -37,22 +37,9 @@
 
 </div>
 
-<br/>
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sameersinha1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sameersinha1&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img src="https://streak-stats.demolab.com/?user=sameersinha1&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sameersinha1&theme=react-dark&hide_border=true" />
@@ -60,7 +47,7 @@
 
 <br/>
 
-### 🐍 Snake Eating My Contributions
+###  My Contributions
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/sameersinha1/sameersinha1/output/github-contribution-grid-snake.svg" />
@@ -68,26 +55,7 @@
 
 <br/>
 
-### 🔥 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/sameersinha1/DEEPFAKEDETECTION">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sameersinha1&repo=DEEPFAKEDETECTION&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/sameersinha1/Intelligent-Smile-Recognition-and-Reward-System">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sameersinha1&repo=Intelligent-Smile-Recognition-and-Reward-System&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/sameersinha1/Voice-contolled-car-">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sameersinha1&repo=Voice-contolled-car-&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/sameersinha1/Website">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sameersinha1&repo=Website&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
-
-</div>
-
-<br/>
 
 ### 🤝 Connect With Me
 
