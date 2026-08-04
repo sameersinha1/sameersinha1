@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated wave banner -->
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=AI/ML+Engineer;Python+%7C+C%2B%2B+Developer;AI+%26+Machine+Learning+Enthusiast;7C+Computer+Vision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=AI/ML+Engineer;Python+%7C+C%2B%2B+Developer;AI+%26+Machine+Learning+Enthusiast;+Computer+Vision" alt="Typing SVG" />
 </a>
 
 </div>
@@ -62,7 +62,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-sinha-39b8771ba)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameersinha1)
 
 </div>
 
