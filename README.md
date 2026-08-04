@@ -16,7 +16,7 @@
 
 - 🎓 Aspiring **ML Engineer**, passionate about AI, Machine Learning & Data Analysis
 - 💻 Comfortable with **Java, Python, C++**
-- 🧠 Currently exploring **Deepfake Detection**, **Computer Vision**,  **Digital Twin Model** and **Voice-Controlled Robotics**
+- 🧠 Currently exploring **Generative Adversarial Networks**, **Transformers**,**Computer Vision**,  **Digital Twin Model** 
 - 🌱 Always learning something new and shipping side projects
 <br/>
 
